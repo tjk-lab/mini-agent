@@ -1,0 +1,7 @@
+总结（共 3 个 txt 文件）
+
+a.txt：内容为一句问候语“hello”。
+b.txt：内容为“DeepSeek agent learning project”，指向一个 DeepSeek agent 学习项目。
+c.txt：内容为“AI Agent can use tools to interact with the outside world.”，说明 AI Agent 可借助工具与外部世界交互。
+
+整体主题：三个文件都与 AI Agent（尤其是 DeepSeek agent）的学习相关，涵盖从简单问候到项目名称、再到 Agent 通过工具与外部环境交互的核心概念。
