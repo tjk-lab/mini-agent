@@ -1,0 +1,23 @@
+[project]
+name = "mini-agent"
+version = "0.1.0"
+description = "A simple tool-calling AI Agent built for learning agent engineering."
+requires-python = ">=3.12"
+
+dependencies = [
+    "openai==3.24.0",
+    "python-dotenv==1.2.4",
+]
+
+[dependency-groups]
+dev = [
+    "black",
+    "pytest",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
+[tool.black]
+line-length = 88
+target-version = ["py312"]
